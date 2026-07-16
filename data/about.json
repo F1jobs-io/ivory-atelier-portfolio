@@ -1,0 +1,21 @@
+{
+  "sectionTitle": "About Me",
+  "paragraphs": [
+    "Software engineer with 5+ years of experience designing scalable web applications, cloud infrastructure, and data-driven products. I focus on clean architecture, developer experience, and shipping features that move business metrics.",
+    "Comfortable across the stack, from React frontends to distributed backend services and CI/CD automation."
+  ],
+  "statistics": [
+    {
+      "value": "6+",
+      "label": "Years Experience"
+    },
+    {
+      "value": "4+",
+      "label": "Projects Completed"
+    },
+    {
+      "value": "19+",
+      "label": "Technologies"
+    }
+  ]
+}
