@@ -1,8 +1,8 @@
 {
   "greeting": "Hi, I'm",
-  "name": "Alex Morgan",
-  "title": "Software Engineer",
-  "summary": "Software engineer with 5+ years of experience designing scalable web applications, cloud infrastructure, and data-driven products.",
+  "name": "Aisha Rahman",
+  "title": "Business Analyst",
+  "summary": "Business Analyst with 4+ years turning ambiguous problems into clear decisions.",
   "avatarUrl": "/avatar.png",
   "highlights": [
     {
@@ -37,17 +37,17 @@
   "socialLinks": [
     {
       "platform": "GitHub",
-      "url": "https://github.com/alexmorgan-dev",
+      "url": "https://github.com/aisharahman-ba",
       "icon": "fab fa-github"
     },
     {
       "platform": "LinkedIn",
-      "url": "https://linkedin.com/in/alexmorgan",
+      "url": "https://linkedin.com/in/aisharahman",
       "icon": "fab fa-linkedin"
     },
     {
       "platform": "Email",
-      "url": "mailto:alex.morgan@example.com",
+      "url": "mailto:aisha.rahman@example.com",
       "icon": "fas fa-envelope"
     }
   ]

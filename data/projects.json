@@ -2,54 +2,47 @@
   "sectionTitle": "Featured Projects",
   "projects": [
     {
-      "title": "CloudDeploy",
-      "description": "Open-source deployment orchestrator that rolls out containerized apps with zero-downtime blue/green strategies.",
+      "title": "insight-brief",
+      "description": "Template kit for turning analyses into crisp decision briefs.",
       "technologies": [
-        "Go",
-        "Kubernetes",
-        "Docker"
+        "Python"
       ],
       "icon": "fas fa-project-diagram",
       "image": "",
-      "github": "https://github.com/alexmorgan-dev/clouddeploy",
+      "github": "https://github.com/aisharahman-ba/insight-brief",
       "demo": ""
     },
     {
-      "title": "InsightBoard",
-      "description": "Real-time analytics dashboard with configurable widgets, streaming charts, and role-based access control.",
+      "title": "metric-map",
+      "description": "Stakeholder metric-mapping toolkit for discovery.",
       "technologies": [
-        "React",
-        "TypeScript",
-        "WebSockets"
-      ],
-      "icon": "fas fa-globe",
-      "image": "",
-      "github": "https://github.com/alexmorgan-dev/insightboard",
-      "demo": ""
-    },
-    {
-      "title": "PipeWorks",
-      "description": "Declarative data pipeline framework with schema validation, retries, and observability built in.",
-      "technologies": [
-        "Python",
-        "Kafka",
-        "PostgreSQL"
+        "SQL"
       ],
       "icon": "fas fa-project-diagram",
       "image": "",
-      "github": "https://github.com/alexmorgan-dev/pipeworks",
+      "github": "https://github.com/aisharahman-ba/metric-map",
       "demo": ""
     },
     {
-      "title": "DevMetrics CLI",
-      "description": "Command-line tool that aggregates engineering metrics from GitHub and CI systems into weekly reports.",
+      "title": "report-runner",
+      "description": "Scheduler that automates recurring analytics reports.",
       "technologies": [
-        "TypeScript",
-        "Node.js"
+        "Python"
       ],
       "icon": "fas fa-project-diagram",
       "image": "",
-      "github": "https://github.com/alexmorgan-dev/devmetrics-cli",
+      "github": "https://github.com/aisharahman-ba/report-runner",
+      "demo": ""
+    },
+    {
+      "title": "ab-lens",
+      "description": "Lightweight A/B test analysis and significance calculator.",
+      "technologies": [
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "",
+      "github": "https://github.com/aisharahman-ba/ab-lens",
       "demo": ""
     }
   ]

@@ -3,18 +3,13 @@
   "certificationsTitle": "Certifications",
   "education": [
     {
-      "degree": "B.S. in Computer Science",
-      "school": "University of California, Berkeley",
-      "institution": "University of California, Berkeley",
+      "degree": "B.A. in Economics",
+      "school": "Boston University",
+      "institution": "Boston University",
       "period": "2016 - 2020",
       "details": "",
       "description": ""
     }
   ],
-  "certifications": [
-    {
-      "name": "AWS Certified Solutions Architect",
-      "issuer": "Amazon Web Services"
-    }
-  ]
+  "certifications": []
 }

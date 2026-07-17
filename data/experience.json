@@ -2,27 +2,27 @@
   "sectionTitle": "Professional Experience",
   "experiences": [
     {
-      "title": "Senior Software Engineer",
-      "company": "Acme Cloud",
-      "period": "Jan 2023 - Present",
-      "location": "San Francisco, CA",
-      "description": "Senior Software Engineer at Acme Cloud",
+      "title": "Business Analyst",
+      "company": "Harbor Analytics",
+      "period": "Jun 2022 - Present",
+      "location": "Boston, MA",
+      "description": "Business Analyst at Harbor Analytics",
       "responsibilities": [
-        "Led the redesign of a multi-tenant API platform serving 2M+ requests per day, cutting p99 latency by 45%",
-        "Built CI/CD pipelines with GitHub Actions and Docker, reducing deployment time from hours to minutes",
-        "Mentored four junior engineers and established the team code review and testing standards"
+        "Delivered product and operations analyses that informed roadmap and pricing decisions",
+        "Built self-serve dashboards adopted by product, ops, and leadership teams",
+        "Standardized requirements and acceptance criteria across delivery squads"
       ]
     },
     {
-      "title": "Software Engineer",
-      "company": "Brightline Labs",
-      "period": "Jun 2020 - Dec 2022",
-      "location": "Remote",
-      "description": "Software Engineer at Brightline Labs",
+      "title": "Analyst",
+      "company": "Copley Consulting",
+      "period": "Aug 2020 - May 2022",
+      "location": "Boston, MA",
+      "description": "Analyst at Copley Consulting",
       "responsibilities": [
-        "Developed customer-facing dashboards in React and TypeScript used by 40k monthly active users",
-        "Designed event-driven data pipelines with Kafka and Python processing 10M+ events daily",
-        "Improved automated test coverage from 40% to 85%, cutting production regressions in half"
+        "Ran discovery and data analysis for enterprise clients across retail and healthcare",
+        "Automated recurring reports, cutting manual effort by 30%",
+        "Facilitated stakeholder workshops to align on metrics and success criteria"
       ]
     }
   ]

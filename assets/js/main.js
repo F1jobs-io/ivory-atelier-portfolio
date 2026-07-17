@@ -1,5 +1,5 @@
 // ==========================================================================
-// Alex Morgan — Portfolio bootstrap
+// Aisha Rahman — Portfolio bootstrap
 // Content is loaded from /data/*.json; static <head> + <noscript> keep the
 // page meaningful for crawlers and no-JS visitors.
 // ==========================================================================
@@ -344,7 +344,7 @@ async function loadContact() {
 
   const recipient =
     (contact.contactInfo || []).find((i) => i.type === "email")?.value ||
-    "hello@example.com";
+    "aisha.rahman@example.com";
 
   const info = document.getElementById("contactInfo");
   if (info) {

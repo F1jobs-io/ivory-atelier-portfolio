@@ -1,12 +1,11 @@
 {
   "sectionTitle": "About Me",
   "paragraphs": [
-    "Software engineer with 5+ years of experience designing scalable web applications, cloud infrastructure, and data-driven products. I focus on clean architecture, developer experience, and shipping features that move business metrics.",
-    "Comfortable across the stack, from React frontends to distributed backend services and CI/CD automation."
+    "Business Analyst with 4+ years turning ambiguous problems into clear decisions. I connect stakeholder needs to data — building requirements, dashboards, and analyses that improve product and operational outcomes. I bring a calm, structured approach and a bias toward measurable impact."
   ],
   "statistics": [
     {
-      "value": "6+",
+      "value": "7+",
       "label": "Years Experience"
     },
     {
@@ -14,7 +13,7 @@
       "label": "Projects Completed"
     },
     {
-      "value": "19+",
+      "value": "17+",
       "label": "Technologies"
     }
   ]

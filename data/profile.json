@@ -1,18 +1,18 @@
 {
   "profile": {
-    "name": "Alex Morgan",
-    "title": "Software Engineer",
-    "bio": "Software engineer with 5+ years of experience designing scalable web applications, cloud infrastructure, and data-driven products. I focus on clean architecture, developer experience, and shipping features that move business metrics. Comfortable across the stack, from React frontends to distributed backend services and CI/CD automation."
+    "name": "Aisha Rahman",
+    "title": "Business Analyst",
+    "bio": "Business Analyst with 4+ years turning ambiguous problems into clear decisions. I connect stakeholder needs to data — building requirements, dashboards, and analyses that improve product and operational outcomes. I bring a calm, structured approach and a bias toward measurable impact."
   },
   "contact": {
-    "email": "alex.morgan@example.com",
-    "phone": "+1 (555) 123-4567",
-    "githubUsername": "alexmorgan-dev",
-    "linkedin": "https://linkedin.com/in/alexmorgan"
+    "email": "aisha.rahman@example.com",
+    "phone": "+1 (617) 555-0155",
+    "githubUsername": "aisharahman-ba",
+    "linkedin": "https://linkedin.com/in/aisharahman"
   },
   "siteConfig": {
     "domain": "",
-    "title": "Alex Morgan - Portfolio",
-    "description": "Software engineer with 5+ years of experience designing scalable web applications, cloud infrastructure, and data-driven products. I focus on clean architecture, developer experience, and shipping features that move business metrics. Comfortable across the stack, from React frontends to distributed backend services and CI/CD automation."
+    "title": "Aisha Rahman - Portfolio",
+    "description": "Business Analyst with 4+ years turning ambiguous problems into clear decisions. I connect stakeholder needs to data — building requirements, dashboards, and analyses that improve product and operational outcomes. I bring a calm, structured approach and a bias toward measurable impact."
   }
 }

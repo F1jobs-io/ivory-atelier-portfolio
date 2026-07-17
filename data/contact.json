@@ -5,36 +5,36 @@
       "type": "email",
       "icon": "fas fa-envelope",
       "label": "Email",
-      "value": "alex.morgan@example.com",
-      "href": "mailto:alex.morgan@example.com"
+      "value": "aisha.rahman@example.com",
+      "href": "mailto:aisha.rahman@example.com"
     },
     {
       "type": "phone",
       "icon": "fas fa-phone",
       "label": "Phone",
-      "value": "+1 (555) 123-4567",
-      "href": "tel:15551234567"
+      "value": "+1 (617) 555-0155",
+      "href": "tel:16175550155"
     },
     {
       "type": "location",
       "icon": "fas fa-map-marker-alt",
       "label": "Location",
-      "value": "San Francisco, CA",
+      "value": "Boston, MA",
       "href": null
     },
     {
       "type": "linkedin",
       "icon": "fab fa-linkedin",
       "label": "LinkedIn",
-      "value": "alexmorgan",
-      "href": "https://linkedin.com/in/alexmorgan"
+      "value": "aisharahman",
+      "href": "https://linkedin.com/in/aisharahman"
     },
     {
       "type": "github",
       "icon": "fab fa-github",
       "label": "GitHub",
-      "value": "alexmorgan-dev",
-      "href": "https://github.com/alexmorgan-dev"
+      "value": "aisharahman-ba",
+      "href": "https://github.com/aisharahman-ba"
     }
   ],
   "form": {
