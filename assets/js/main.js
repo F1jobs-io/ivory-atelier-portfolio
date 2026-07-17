@@ -344,7 +344,7 @@ async function loadContact() {
 
   const recipient =
     (contact.contactInfo || []).find((i) => i.type === "email")?.value ||
-    "MorganAlex266@gmail.com";
+    "hello@example.com";
 
   const info = document.getElementById("contactInfo");
   if (info) {
